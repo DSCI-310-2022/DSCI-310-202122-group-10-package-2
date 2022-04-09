@@ -14,7 +14,7 @@ $ pip install DSCI-310-Group-10-Package
 
 ## Usage
 
-- TODO
+- [example](docs/example.ipynb)
 
 ## Contributing
 
