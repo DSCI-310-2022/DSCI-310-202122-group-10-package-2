@@ -9,7 +9,7 @@ The main project where this package is used can be found in the following GitHub
 ## Installation
 
 ```bash
-$ pip install DSCI-310-Group-10-Package
+$ pip install group10pack
 ```
 
 ## Usage
