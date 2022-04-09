@@ -1,4 +1,4 @@
-from src.DSCI_310_Group_10_Package.format_histograms import format_histograms
+from group10pack.format_histograms import format_histograms
 import pytest
 from pandas import DataFrame
 

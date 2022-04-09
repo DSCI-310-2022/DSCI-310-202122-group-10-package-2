@@ -1,7 +1,10 @@
 # Contributing
 
 Contributions are welcome, and they are greatly appreciated! Every little bit
-helps, and credit will always be given.
+helps, and credit will always be given. If you would like to contribute, please follow the 
+practices below by creating a new branch from main where you can make any changes. This will allow
+changes to be processed through a pull request to ensure correctness.
+
 
 ## Types of Contributions
 
@@ -40,10 +43,10 @@ If you are proposing a feature:
 
 ## Get Started!
 
-Ready to contribute? Here's how to set up `group10pack` for local development.
+Ready to contribute? Here's how to set up `DSCI-310-Group-10-Package` for local development.
 
-1. Download a copy of `group10pack` locally.
-2. Install `group10pack` using `poetry`:
+1. Download a copy of `DSCI-310-Group-10-Package` locally.
+2. Install `DSCI-310-Group-10-Package` using `poetry`:
 
     ```console
     $ poetry install
@@ -69,5 +72,5 @@ Before you submit a pull request, check that it meets these guidelines:
 
 ## Code of Conduct
 
-Please note that the `group10pack` project is released with a 
+Please note that the `DSCI-310-Group-10-Package` project is released with a 
 Code of Conduct. By contributing to this project you agree to abide by its terms.
