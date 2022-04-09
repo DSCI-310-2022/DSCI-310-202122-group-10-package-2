@@ -14,6 +14,7 @@ $ pip install group10pack
 
 ## Usage
 
+Click on the following link for a short tutorial on how to use the functions in this package. 
 - [example](docs/example.ipynb)
 
 
