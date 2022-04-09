@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "group10pack"
-version = "0.1.0"
+version = "0.1.1"
 description = "This package contains the functions for the Statistics Canada investment income analysis,by group 10"
 authors = ["Harry Zhang Ahmed Rizk Mahdi Heydar Nikko Dumrique"]
 license = "MIT"
@@ -24,6 +24,7 @@ pytest-cov = "^3.0.0"
 myst-nb = {version = "^0.13.2", python = "^3.9"}
 sphinx-autoapi = "^1.8.4"
 sphinx-rtd-theme = "^1.0.0"
+jupyter = "^1.0.0"
 [tool.semantic_release]
 version_variable = "pyproject.toml:version" # version location
 branch = "main"                             # branch to make releases of
